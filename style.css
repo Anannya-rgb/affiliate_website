@@ -72,7 +72,7 @@ footer {
 
 /* navbar */
 .navbar {
-  display: inline-table;
+  display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: #5d4037;
